@@ -1,6 +1,6 @@
 # Rohail Siddiqui
 
-**AI Product Builder · Sales Automation · Full-Stack Developer**
+**AI Sales Builder · Sales Automation · **
 
 I build AI-powered products and sales automation systems that actually ship. My work sits at the intersection of technical execution and go-to-market — I've built SaaS dashboards, WhatsApp bots, SDR automation pipelines, and HubSpot integrations from scratch.
 
